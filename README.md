@@ -8,6 +8,10 @@ A school district asked for a snapshot of several key metrics by each school cam
 (2.) Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
+![School Summary
+](https://github.com/Adpetfem83/School_District_Analysis/blob/main/Screen%20Shot%202022-08-23%20at%207.49.57%20PM.png?raw=true)
+
+
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
