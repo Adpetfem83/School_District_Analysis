@@ -25,9 +25,8 @@ How is the school summary affected?
 In the original analysis, Thomas High School started with a 91% overall passing rate, which was a concern to the school board as being too high. After calculating the total number of 10th - 12th grade students as the new denominator, the rest of the testing data was adjusted accordingly.
 
 Original Analysis: 
-
-
-
+![
+](https://github.com/Adpetfem83/School_District_Analysis/blob/main/Screen%20Shot%202022-08-24%20at%206.54.04%20AM.png)
 
 
 Removing the 9th grade students from the data set had a huge impact by dropping from 91% to 65% for the overall passing rate.
