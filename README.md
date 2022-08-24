@@ -32,7 +32,8 @@ Removing the 9th grade students from the data set had a huge impact by dropping 
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-
+![
+](https://github.com/Adpetfem83/School_District_Analysis/blob/main/Screen%20Shot%202022-08-24%20at%201.37.07%20PM.png)
 
 
 How does replacing the ninth-grade scores affect the following:
