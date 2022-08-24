@@ -78,6 +78,15 @@ There was very little impact by campus size due to changing the 9th grade scores
 
 # Scores by school type
 
+Thomas High School is a charter school type. The hundredths place was needed to see the nominal changes.
+
+Original Analysis:
+![
+](https://github.com/Adpetfem83/School_District_Analysis/blob/main/Screen%20Shot%202022-08-24%20at%202.37.20%20PM.png)
+
+There was very little impact by school type by changing the 9th grade scores.
+
+
 (3.) Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 (a). The overall passing rate for Thomas High School changed dramatically from 91% to 65%.
