@@ -8,6 +8,10 @@ A school district asked for a snapshot of several key metrics by each school cam
 (2.) Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
+
+The testing data of 461 9th graders at Thomas High School was turned into null data, which recalculated the percentages of passing math, passing reading, and the overall passing. The total count of students did not change as that was run on the count of the student ids, which was not turned into null data.
+
+
 ![School Summary
 ](https://github.com/Adpetfem83/School_District_Analysis/blob/main/Screen%20Shot%202022-08-23%20at%207.49.57%20PM.png?raw=true)
 
