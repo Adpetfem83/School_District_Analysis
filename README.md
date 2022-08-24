@@ -40,6 +40,11 @@ Original Analysis:
 ![
 ](https://github.com/Adpetfem83/School_District_Analysis/blob/main/Screen%20Shot%202022-08-24%20at%201.46.27%20PM.png)
 
+After adjusting the 9th grade data, Thomas High School ranked in the exact middle of 15 campuses at 8th from the bottom.
+
+Adjusted Analysis: 
+
+
 
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
