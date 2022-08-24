@@ -1,4 +1,4 @@
-# School_District_AnalysisDeliverable 3: A Written Report for the School District Analysis (25 points)
+## School_District_AnalysisDeliverable 3: A Written Report for the School District Analysis (25 points)
 Instructions:
 For this part of the Challenge, write a report that summarizes your updated analysis and compares it with the results from the module.
 
@@ -7,7 +7,7 @@ A school district asked for a snapshot of several key metrics by each school cam
 
 (2.) Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-How is the district summary affected?
+## How is the district summary affected?
 ![
 ](https://github.com/Adpetfem83/School_District_Analysis/blob/main/Screen%20Shot%202022-08-24%20at%205.51.15%20AM.png)
 
@@ -32,10 +32,13 @@ In the original analysis, Thomas High School started with a 91% overall passing 
 
 
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-![
-](https://github.com/Adpetfem83/School_District_Analysis/blob/main/Screen%20Shot%202022-08-24%20at%201.37.07%20PM.png)
+In the original analysis, Thomas High School ranked 2nd in the district raising red flags with the school board.
+
+Original Analysis:
+
+
 
 
 How does replacing the ninth-grade scores affect the following:
