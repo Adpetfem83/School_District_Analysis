@@ -64,9 +64,19 @@ Original Analysis:
 ![
 ](https://github.com/Adpetfem83/School_District_Analysis/blob/main/Screen%20Shot%202022-08-24%20at%202.25.43%20PM.png)
 
+There was very little spending impact by changing the 9th grade scores.
 
-Scores by school size
-Scores by school type
+# Scores by school size
+Thomas High School is defined as a medium sized school. The hundredths place was needed to see the nominal changes.
+
+Original Analysis:
+![
+](https://github.com/Adpetfem83/School_District_Analysis/blob/main/Screen%20Shot%202022-08-24%20at%202.32.45%20PM.png)
+
+There was very little impact by campus size due to changing the 9th grade scores.
+
+
+# Scores by school type
 
 (3.) Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
