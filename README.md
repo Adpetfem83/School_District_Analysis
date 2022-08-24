@@ -19,7 +19,6 @@ When comparing the two charts, removing less than 500 test scores had a nominal 
 
 
 
-
 How is the school summary affected?
 
 In the original analysis, Thomas High School started with a 91% overall passing rate, which was a concern to the school board as being too high. After calculating the total number of 10th - 12th grade students as the new denominator, the rest of the testing data was adjusted accordingly.
