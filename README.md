@@ -20,7 +20,7 @@ When comparing the two charts, removing less than 500 test scores had a nominal 
 
 
 
-How is the school summary affected?
+## How is the school summary affected?
 
 In the original analysis, Thomas High School started with a 91% overall passing rate, which was a concern to the school board as being too high. After calculating the total number of 10th - 12th grade students as the new denominator, the rest of the testing data was adjusted accordingly.
  
@@ -37,8 +37,8 @@ In the original analysis, Thomas High School started with a 91% overall passing 
 In the original analysis, Thomas High School ranked 2nd in the district raising red flags with the school board.
 
 Original Analysis:
-
-
+![
+](https://github.com/Adpetfem83/School_District_Analysis/blob/main/Screen%20Shot%202022-08-24%20at%201.46.27%20PM.png)
 
 
 How does replacing the ninth-grade scores affect the following:
