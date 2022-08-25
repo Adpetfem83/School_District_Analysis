@@ -3,7 +3,7 @@ Instructions:
 For this part of the Challenge, write a report that summarizes your updated analysis and compares it with the results from the module.
 
 ## Overview of the school district analysis:
-A school district asked for a snapshot of several key metrics by each school campus and by the district level. The main analysis focused on the performance of math and reading scores disaggregated several ways in preparation for a board meeting. However, after the school board reviewed the data, it was determined that the data from Thomas High School's 9th grade class was suspect of cheating. The school board asked for the data to be removed and analyzed again for a comparison.
+A school district asked for a snapshot of several key metrics by each school campus and by the district level. The School District Analysis actually focused on the performance of various schools in the district area in the following subjects, math and reading in preparation for a board meeting. However, after the school board reviewed the data presented, it was noticed that the data from Thomas High School's 9th grade class was suspect of cheating. The school board asked for the data to be removed and analyzed again for a comparison.
 
 (2.) Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
@@ -34,7 +34,7 @@ In the original analysis, Thomas High School started with a 91% overall passing 
 
 ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-In the original analysis, Thomas High School ranked 2nd in the district raising red flags with the school board.
+In the original analysis, Thomas High School (THS) ranked 2nd in the district raising red flags with the school board.
 
 Original Analysis:
 ![
@@ -49,8 +49,9 @@ Adjusted Analysis:
 
 ## How does replacing the ninth-grade scores affect the following:
  
- Adjusted Averages using the Math and Reading Scores
-In the original analysis, Thomas High School had 83.6 math average and 83.7 reading average for the 9th grade tests. Now the scores have been replaced with null values and shows up in Python programming as NaN in the following charts.
+ The adjusted Averages using the Math and Reading Scores:
+ 
+In the original analysis, Thomas High School (THS) had 83.6 math average and 83.7 reading average for the 9th grade tests. Now the scores have been replaced with null values and shows up in Python programming as NaN in the following charts.
 
 Adjusted Average Math Scores------------------------------------------------------------Adjusted Average Reading Scores:
  
@@ -58,7 +59,7 @@ Adjusted Average Math Scores----------------------------------------------------
  ](https://github.com/Adpetfem83/School_District_Analysis/blob/main/Screen%20Shot%202022-08-24%20at%202.12.43%20PM.png)
  
 # Scores by school spending
-Thomas High School falls in the $630-$644/student spending range. However, the hundredths place was needed to see the nominal changes.
+THS falls in the $630-$644/student spending range. However, the hundredths place was needed to see the nominal changes.
 
 Original Analysis:
 ![
@@ -67,7 +68,7 @@ Original Analysis:
 There was very little spending impact by changing the 9th grade scores.
 
 # Scores by school size
-Thomas High School is defined as a medium sized school. The hundredths place was needed to see the nominal changes.
+THS is defined as a medium sized school. The hundredths place was needed to see the nominal changes.
 
 Original Analysis:
 ![
@@ -78,7 +79,7 @@ There was very little impact by campus size due to changing the 9th grade scores
 
 # Scores by school type
 
-Thomas High School is a charter school type. The hundredths place was needed to see the nominal changes.
+THS is a charter school type. The hundredths place was needed to see the nominal changes.
 
 Original Analysis:
 ![
