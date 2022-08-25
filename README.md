@@ -1,6 +1,7 @@
 ## School_District_AnalysisDeliverable 3: A Written Report for the School District Analysis (25 points)
 Instructions:
-For this part of the Challenge, write a report that summarizes your updated analysis and compares it with the results from the module.
+
+# For this part of the Challenge, write a report that summarizes your updated analysis and compares it with the results from the module.
 
 ## Overview of the school district analysis:
 A school district asked for a snapshot of several key metrics by each school campus and by the district level. The School District Analysis actually focused on the performance of various schools in the district area in the following subjects, math and reading in preparation for a board meeting. However, after the school board reviewed the data presented, it was noticed that the data from Thomas High School's 9th grade class was suspect of cheating. The school board asked for the data to be removed and analyzed again for a comparison.
